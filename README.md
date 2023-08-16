@@ -68,7 +68,5 @@ Resultado
 
 
 
-
-
 # Ejercicio 13
 Resultado
