@@ -65,8 +65,3 @@ Resultado
 Resultado
 
 ![image](https://github.com/GCMrybakin/mar_fe_gc_TA20-Flujo_de_datos/assets/135844963/7aee615e-207e-4ee0-835b-fcf4fb9e010e)
-
-
-
-# Ejercicio 13
-Resultado
